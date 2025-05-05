@@ -1,0 +1,6 @@
+name = "anncode-site"
+type = "webpack"                # Optional, bisa dihilangkan jika tidak pakai bundler
+compatibility_date = "2025-05-05"
+
+[site]
+bucket = "./dist"
